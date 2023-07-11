@@ -1,0 +1,4 @@
+1 ;Data_Analyst ;Facebook ;17,01,2023 ;17,01,2029 ;Extraction_de_Donnees ;1 ;3 ;3  
+2 ;Agent_de_securite ;ATALIAN_SECURITE ;03,08,2022 ;28,01,2023 ;la_protection_des_biens_et_des_personnes ;2 ;2 ;1  
+3 ;Assistant_marketing ;The_Hayleys_Group ;12,09,2021 ;24,12,2022 ;suivi_des_dossiers_clients ;3 ;1 ;1  
+4 ;Devloppeur_JAVA_FULL_STACK ;Orange ;12,11,2018 ;14,02,2022 ;Gerer_le_back_end ;2 ;1 ;1  

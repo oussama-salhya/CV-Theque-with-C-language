@@ -1,0 +1,10 @@
+void AjouterVille();
+void RechercheVille();
+void SupprimerVille();
+void ModifierVille();
+void AfficherVille();
+void MenuVille();
+int rechVille();
+int RechercheVilleParNom(char *);
+unsigned int getIDVille(char *);
+void AfficherVilleC(int );

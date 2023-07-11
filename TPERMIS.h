@@ -1,0 +1,10 @@
+void AjouterPermis();
+void RecherchePermis();
+void SupprimerPermis();
+void ModifierPermis();
+void AfficherPermis();
+void MenuPermis();
+int rechPermis();
+int RecherchePermisParNom(char *);
+unsigned int getIDPermis(char *);
+void AfficherPermisC(int );

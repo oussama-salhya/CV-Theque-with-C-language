@@ -1,0 +1,4 @@
+1 ;Travail_en_equipe ;Collaboration ;Soft_skills ;2 
+2 ;Langage_C ;Developpement_informatique ;Competence_technique ;1 
+3 ;Machine_Learning ;Intelligence_artificielle ;Competence ;4 
+4 ;Sens_de_l'organisation ;L'organisation ;Soft_skills ;3 

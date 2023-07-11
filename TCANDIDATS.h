@@ -1,0 +1,13 @@
+void AjouterCandidat();
+void RechercheCandidat();
+void SupprimerCandidat();
+void ModifierCandidat();
+void AfficherCandidats();
+void MenuCandidat();
+int RechercheCandidatParCIN(char * );
+int rechCandidat(int );
+int getIDCandidat(char *);
+int SaisirPays();
+int SaisirEtat();
+int SaisirVille();
+int SasirPermis();

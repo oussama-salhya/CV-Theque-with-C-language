@@ -1,0 +1,4 @@
+1 ;2 ;3 ;Ingenieur_d'etat ;Informatique ;21,09,2018 ;5_ans ;INSA_de_LYON  
+2 ;4 ;1 ;Diplome_des_Ecoles_Nationales_de_Commerce_et_de_GeManagement_des_Recources_Humaines ;Management_des_Recources_Humaines ;13,09,2020 ;5_ans ;ENCG_CASA  
+3 ;3 ;4 ;Brevet_de_Technicien_Superieur ;Developpement_Informatique ;12,10,2019 ;2_ans ;ISTA_RABAT  
+4 ;1 ;9 ;Licence_fondamentale_en_science_economique ;economie ;10,09,2017 ;3_ans ;Faculte_d'economie_et_de_gestion_Settat

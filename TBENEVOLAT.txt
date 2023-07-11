@@ -1,0 +1,4 @@
+1 ;President_du_clube ;Enactus ;President ;Entreprenariat ;4 
+2 ;Membre_d'un_clube ;GDSC ;Membre_actif ;Developpement ;2 
+3 ;Chef_de_cellule_d'organisation ;UMUS ;Chef_de_cellule_d'organisation ;Developpement ;1 
+4 ;tresorerie_du_club ;CTDE ;resorerie ;La_charite ;4 

@@ -1,0 +1,9 @@
+1 ;Maroc 
+2 ;Espagne 
+3 ;France 
+4 ;Allemagne 
+5 ;Etats-Unis 
+6 ;Pays-Bas 
+7 ;Canada 
+8 ;Angleterre 
+9 ;Japon 

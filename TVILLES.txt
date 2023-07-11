@@ -1,0 +1,13 @@
+1 ; Casablanca ; Maroc 
+2 ; Madrid ; Spain 
+3 ; Paris ; France 
+4 ; Rabat ; Maroc 
+5 ; Berlin ; Allemagne 
+6 ; Chicago ; Etats-Unis 
+7 ; Amsterdam ; Pays-Bas 
+8 ; Montreal ; Canada 
+9 ; Marrakech ; Maroc 
+10 ; Londres ; Angleterre 
+11 ; Tokyo ; Japon 
+12 ; Lyon ; France 
+13 ; New-York ; Etats-Unis 

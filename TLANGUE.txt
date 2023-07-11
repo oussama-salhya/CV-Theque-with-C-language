@@ -1,0 +1,6 @@
+1 ;Arabe ;B2 ;B1 ;B1 ;4 
+2 ;Francais ;A2 ;B1 ;A0 ;3 
+3 ;arabe ;C1 ;C2 ;B2 ;2 
+4 ;espagnole ;B1 ;B2 ;A2 ;1 
+5 ;Allemand ;A1 ;A0 ;A2 ;3 
+6 ;japonaise ;B1 ;A2 ;B2 ;1 

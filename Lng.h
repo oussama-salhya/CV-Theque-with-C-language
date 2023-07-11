@@ -1,0 +1,16 @@
+void Ajouterlangue();
+void Recherchelangue();
+void Supprimerlangue();
+void Modifierlangue();
+void Afficherlangue();
+void Ajouterniveau();
+void Rechercheniveau();
+void Supprimerniveau();
+void Modifierniveau();
+void Afficherniveau();
+unsigned int getID(char *);
+ int gettID(char *);
+ int rechL(int );
+ int rechN(int );
+ int RecherchelangueParNom(char * );
+ int RechercheniveauParNom(char * );

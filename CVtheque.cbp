@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="CVtheque" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/CVtheque" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/CVtheque" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Lng.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Lng.h" />
+		<Unit filename="TBENEVOLAT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TBENEVOLAT.h" />
+		<Unit filename="TCANDIDATS.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TCANDIDATS.h" />
+		<Unit filename="TCOMPETENCES.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TCOMPETENCES.h" />
+		<Unit filename="TCV.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TCV.h" />
+		<Unit filename="TETATCIVILE.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TETATCIVILE.h" />
+		<Unit filename="TEXPERIENCES.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TEXPERIENCES.h" />
+		<Unit filename="TFORMATIONS .c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TFORMATIONS.h" />
+		<Unit filename="TLANGUE.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TLANGUE.h" />
+		<Unit filename="TPAYS.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TPAYS.h" />
+		<Unit filename="TPERMIS.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TPERMIS.h" />
+		<Unit filename="TPROJET.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TPROJET.h" />
+		<Unit filename="TTYPECONTRAT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TTYPECONTRAT.h" />
+		<Unit filename="TVILLES.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TVILLES.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

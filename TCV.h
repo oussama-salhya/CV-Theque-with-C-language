@@ -1,0 +1,10 @@
+void AjouterCV();
+void RechercheCV();
+void SupprimerCV();
+void ModifierCV();
+void AfficherCV();
+void MenuCV();
+int RechercheCVPartitre(char * );
+void AfficherCVComp(int );
+int rechCV(int );
+int getIDCV(char *);

@@ -1,0 +1,10 @@
+void AjouterEtatC();
+void RechercheEtatC();
+void SupprimerEtatC();
+void ModifierEtatC();
+void AfficherEtatC();
+void MenuEtatC();
+int rechEtatC();
+int RechercheEtatCParNom(char *);
+unsigned int getIDEtatC(char *);
+void AfficherEtatCC(int );

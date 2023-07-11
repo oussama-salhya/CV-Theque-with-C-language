@@ -1,0 +1,10 @@
+1 ;CDI 
+2 ;CDD
+3 ;ANAPEC  
+4 ;Contrat-de-professionnalisation
+5 ;Contrat-de-travail-temporaire
+6 ;Contrat-d'apprentissage
+7 ;CIE
+8 ;CAE
+9 ;CNE
+10 ;CPE

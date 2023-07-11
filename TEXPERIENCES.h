@@ -1,0 +1,10 @@
+void MenuExperience();
+void AjouterExperience();
+void RechercheExperience();
+void SupprimerExperience();
+void ModifierExperience();
+int RechercheCompParNom(char * );
+int RechercheExpParNom(char * );
+void AfficherExperiences();
+int getIdExperience(char *);
+int SaisirTypeContrat();

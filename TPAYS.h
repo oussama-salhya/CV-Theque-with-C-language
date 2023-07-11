@@ -1,0 +1,11 @@
+void AjouterPays();
+void RecherchePays();
+void SupprimerPays();
+void ModifierPays();
+void AfficherPays();
+void MenuPays();
+int rechPays();
+int RecherchePaysParNom(char *);
+unsigned int getIDPays(char *);
+void test_file_opening(FILE * );
+void AfficherPaysC(int );
